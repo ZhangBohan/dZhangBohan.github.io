@@ -4,8 +4,8 @@ title:  "Web Cron（网络定时器）"
 date:   2014-10-17 12:30:00
 categories: 无码
 tags: Dream TODO
+banner_image: /images/time.jpg
 ---
-![image](/images/time.jpg)
 
 平时经常会用到定时服务，但是每次实现起来都很痛苦，为什么要每次都实现一次呢？
 

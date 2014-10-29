@@ -4,9 +4,8 @@ title:  "java敏捷数据库迁移框架——flyway"
 date:   2014-10-13 01:30:00
 categories: 有码
 tags: DB JAVA
+banner_image: /images/flyway-logo.png
 ---
-
-![image](/images/flyway-logo.png)
 
 看看自己的项目的那些SQL文件或者干脆连个建表语句都没有的同学是否会有想法把他们管理起来呢？向大家推荐一款非常轻量级的敏捷数据库迁移框架——[Flyway](http://flywaydb.org/)。想知道她有什么魅力吗？
 
