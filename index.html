@@ -18,7 +18,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <img src="{{post.banner_image}}">
+        <img class="banner" src="{{post.banner_image}}">
       </li>
     {% endfor %}
   </ul>
